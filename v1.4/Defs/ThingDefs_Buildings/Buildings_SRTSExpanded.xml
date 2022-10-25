@@ -30,7 +30,7 @@
     <passability>PassThroughOnly</passability>
     <castEdgeShadows>true</castEdgeShadows>
     <fillPercent>0.90</fillPercent>
-    <designationCategory>Ship</designationCategory>
+    <designationCategory>SRTS_Expanded</designationCategory>
     <killedLeavings>
       <ChunkSlagSteel>12</ChunkSlagSteel>
     </killedLeavings>
