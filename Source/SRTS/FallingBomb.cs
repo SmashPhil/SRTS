@@ -41,7 +41,7 @@ namespace SRTS
             Scribe_Values.Look<string>(ref texPathShadow, "cachedShadowMaterial");
         }
 
-        public override void DrawAt(Vector3 drawLoc, bool flip = false)
+        protected override void DrawAt(Vector3 drawLoc, bool flip = false)
         {
             float angleDropped = this.angle - 45f;
             this.Graphic.Draw(drawLoc, !flip ? base.Rotation.Opposite : base.Rotation, this as Thing, angleDropped);

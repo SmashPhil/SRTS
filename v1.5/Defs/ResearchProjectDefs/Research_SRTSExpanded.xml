@@ -141,7 +141,6 @@
     </requiredResearchFacilities>
     <discoveredLetterTitle>The Genesis</discoveredLetterTitle>
     <discoveredLetterText>A few of the components needed to build the Genesis elude you. You don't think you can craft them yourself being how complicated they are. At least not yet.\n\nFor now, buy the more advanced components from traders or as quest rewards to build the Genesis.</discoveredLetterText>
-    <discoveredLetterMinDifficulty>1</discoveredLetterMinDifficulty>
   </ResearchProjectDef>
 
   <!-- <ResearchProjectDef>
